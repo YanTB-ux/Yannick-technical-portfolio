@@ -1,6 +1,6 @@
 YANNICK TEBUKA | TECHNICAL PORTFOLIO
 
-THIS IS YOUR ONE FINAL WEBSITE.
+THIS IS My  WEBSITE.
 It includes your approved original-photo edit, business analytics work, your plans to build toward data engineering, a pending AI infrastructure research concept (no company named), and your interest in helping older adults through technology.
 
 PUBLISH DIRECTLY ON NETLIFY (NO GITHUB REQUIRED)
@@ -9,7 +9,7 @@ PUBLISH DIRECTLY ON NETLIFY (NO GITHUB REQUIRED)
 3. Drag the extracted yannick_portfolio_site folder onto Netlify Drop.
 4. Netlify will give you a public *.netlify.app site link to submit.
 
-OPTIONAL: PUBLISH VIA GITHUB CONNECTED TO NETLIFY
+PUBLISH VIA GITHUB CONNECTED TO NETLIFY
 1. Create a new GitHub repo, e.g. yannick-technical-portfolio.
 2. Open the extracted yannick_portfolio_site folder and upload the files and folders INSIDE it (index.html, style.css, script.js, assets, projects, etc.) into the ROOT of your GitHub repo.
 3. Back in Netlify choose Import a Git repository > GitHub > yannick-technical-portfolio.
